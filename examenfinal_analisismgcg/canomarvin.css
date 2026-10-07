@@ -1,0 +1,111 @@
+.Biblioteca{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    table-layout: auto;
+    background-color: brown;
+
+}
+
+.Librosdisponibles{
+    gap: 30px;
+    justify-content: center;
+    color: aliceblue;
+}
+
+.Librosnodisponibles{
+    color: aliceblue;
+}
+
+.primerdisponible{
+background-color: green;
+gap: 30px;
+}
+
+.segundodisponible{
+background-color: green;
+gap: 30px;
+}
+.tercerdisponible{
+background-color: green;
+gap: 30px;
+}
+.cuartodisponible{
+background-color: green;
+gap: 30px;
+}
+.quintodisponible{
+background-color: green;
+gap: 30px;
+}
+.sextodisponible{
+background-color: green;
+gap: 30px;
+}
+.septimodisponible{
+background-color: green;
+gap: 30px;
+}
+.octavodisponible{
+background-color: green;
+gap: 30px;
+}
+.novenodisponible{
+background-color: green;
+gap: 30px;
+}
+.decimodisponible{
+background-color: green;
+gap: 30px;
+}
+
+/*--------------------------------NO DISPONIBLES----------------------------*/
+.primernodisponible{
+background-color: red;
+gap: 30px;
+}
+
+.segundonodisponible{
+background-color:  red;
+gap: 30px;
+}
+.tercernodisponible{
+background-color:  red;
+gap: 30px;
+}
+.cuartonodisponible{
+background-color:  red;
+gap: 30px;
+}
+.quintonodisponible{
+background-color:  red;
+gap: 30px;
+}
+.sextonodisponible{
+background-color:  red;
+gap: 30px;
+}
+.septimonodisponible{
+background-color:  red;
+gap: 30px;
+}
+.octavonodisponible{
+background-color:  red;
+gap: 30px;
+}
+.novenonodisponible{
+background-color:  red;
+gap: 30px;
+}
+.decimonodisponible{
+background-color:  red;
+gap: 30px;
+}
+
+.disponible{
+    color: black;
+    text-align: center;
+}
+
+.nodisponible{
+    color: black;
+    text-align: center;
+}
